@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c673925b9f65fba4eb7cf096dae6a2bc, type: 3}
+  m_Name: Stun Baton
+  m_EditorClassIdentifier: 
+  name: Stun Baton
+  itemType: 0
+  icon: {fileID: 3501655898386836074, guid: aa572fe585049a443985fca102d0e21f, type: 3}
+  isDefaultItem: 0
+  prefab: {fileID: 4446387433867218142, guid: a98e203d28524c34d95f1f6a4f90e381, type: 3}
+  equipSlot: 3
+  spriteToDisplay: {fileID: 3501655898386836074, guid: aa572fe585049a443985fca102d0e21f, type: 3}
+  armorModifier: 0
+  damageModifier: 3
